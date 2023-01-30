@@ -1,0 +1,101 @@
+station_name,poi_distance_from_bike_stn,free_bikes,review_count,rating
+"003488 - Charles II Street, West End",599.0,22.0,532.85,4.3
+"001126 - North Audley Street, Mayfair",504.0,3.0,293.8,4.25
+"001011 - Belgrove Street , King's Cross",289.0,22.0,103.75,4.225
+"001019 - Ampton Street , Clerkenwell",429.0,6.0,155.4,4.3
+"002587 - Wormwood Street, Liverpool Street",367.0,9.0,241.8,4.275
+"001037 - Park Lane , Hyde Park",599.0,28.0,206.7,4.3
+"001122 - Ashley Place, Victoria",400.0,21.0,207.1,4.35
+"001144 - Poured Lines, Bankside",429.0,30.0,207.35,4.225
+"001121 - Lexham Gardens, Kensington",376.0,7.0,110.4,4.35
+"001038 - Harrington Square 1, Camden Town",499.5,12.0,132.55,4.225
+"001026 - Roscoe Street, St. Luke's",421.0,3.0,155.65,4.225
+"001065 - Aldersgate Street, Barbican",495.0,2.0,138.9,4.225
+"001043 - Museum of London, Barbican",616.0,0.0,146.95,4.35
+"003459 - Collingham Gardens, Earl's Court",440.0,2.0,125.9,4.25
+"003458 - Waterloo Place, St. James's",623.0,13.0,520.7,4.325
+"001022 - Brunswick Square, Bloomsbury",373.5,4.0,179.95,4.275
+"000980 - Malet Street, Bloomsbury",825.5,41.0,366.45,4.35
+"001024 - Park Street, Bankside",197.5,11.0,194.6,4.25
+"003446 - De Vere Gardens, Kensington",346.5,12.0,178.95,4.375
+"001012 - Christopher Street, Liverpool Street",587.0,8.0,221.9,4.275
+"003429 - Abbey Orchard Street, Westminster",403.0,2.0,268.5,4.375
+"001053 - Clerkenwell Green, Clerkenwell",258.0,20.0,104.9,4.225
+"001118 - Hampton Street, Walworth",681.5,17.0,56.5,4.325
+"001154 - Kennington Road  , Vauxhall",550.0,11.0,157.65,4.225
+"001067 - St. James's Square, St. James's",583.0,29.0,490.2,4.325
+"001028 - William IV Street, Strand",252.0,22.0,473.65,4.35
+"003479 - Old Brompton Road, South Kensington",427.0,5.0,146.6,4.225
+"003460 - Warwick Square, Pimlico",338.0,17.0,133.95,4.25
+"003469 - Cadogan Place, Knightsbridge",544.5,28.0,142.9,4.3
+"001020 - Leonard Circus , Shoreditch",312.5,20.0,220.85,4.175
+"003477 - Porchester Place, Paddington",460.0,1.0,153.05,4.2
+"003478 - Guildhouse Street, Victoria",143.0,14.0,165.55,4.25
+"001010 - Cartwright Gardens , Bloomsbury",217.5,13.0,134.9,4.275
+"001163 - Wardour Street, Soho",188.0,1.0,532.45,4.275
+"001124 - Sumner Place, South Kensington",327.0,2.0,145.15,4.3
+"001102 - Leman Street, Aldgate",513.0,15.0,238.4,4.325
+"001040 - West Smithfield Rotunda, Farringdon",573.5,8.0,140.2,4.2
+"001007 - Drury Lane, Covent Garden",293.0,11.0,424.35,4.375
+"001045 - Jewry Street, Aldgate",470.0,3.0,241.7,4.3
+"001049 - Finsbury Leisure Centre, St. Luke's",598.0,7.0,100.05,4.3
+"001113 - Trebovir Road, Earl's Court",361.5,9.0,84.15,4.275
+"001018 - Phillimore Gardens, Kensington",473.0,33.0,137.35,4.275
+"001052 - Soho Square , Soho",328.0,48.0,547.75,4.275
+"000991 - Crosswall, Tower",574.0,28.0,263.0,4.35
+"001150 - Queensway, Kensington Gardens",409.0,12.0,150.85,4.225
+"000971 - Godliman Street, St. Paul's",324.0,16.0,206.0,4.3
+"001093 - Kennington Cross, Kennington",627.0,20.0,42.45,4.275
+"003463 - Argyll Road, Kensington",446.0,14.0,136.65,4.275
+"001032 - New Inn Yard, Shoreditch",201.0,16.0,221.0,4.225
+"000975 - Theobald's Road , Holborn",689.0,4.0,352.4,4.35
+"001030 - Lisson Grove, St. John's Wood",625.0,5.0,56.0,4.1
+"001056 - Finsbury Square , Moorgate",688.0,16.0,234.15,4.275
+"003470 - Great Percy Street, Clerkenwell",528.5,14.0,112.2,4.275
+"001023 - River Street , Clerkenwell",410.5,4.0,96.35,4.3
+"002586 - Cloudesley Road, Angel",282.0,20.0,90.15,4.175
+"003461 - Sloane Avenue, Knightsbridge",499.5,26.0,167.75,4.325
+"001039 - Wapping High Street, Wapping",647.0,14.0,130.95,4.175
+"003464 - Green Street, Mayfair",363.0,9.0,182.8,4.275
+"000999 - Queen Street 1, Bank",510.0,7.0,260.5,4.2
+"000978 - Russell Square Station, Bloomsbury",618.0,16.0,199.05,4.275
+"001084 - Pindar Street, Liverpool Street",570.0,1.0,221.9,4.275
+"001034 - Bruton Street, Mayfair",420.0,13.0,376.55,4.25
+"000982 - Holborn Circus, Holborn",295.5,4.0,140.8,4.175
+"001092 - Moorfields, Moorgate",718.5,0.0,222.8,4.275
+"003431 - Grafton Street, Mayfair",432.0,17.0,390.75,4.225
+"001029 - Windsor Terrace, Hoxton",667.5,23.0,121.35,4.225
+"001112 - Nutford Place, Marylebone",586.5,12.0,153.55,4.225
+"001050 - Park Road (Baker Street), The Regent's Park",496.0,6.0,126.35,4.075
+"003486 - St. Luke's Church, Chelsea",566.0,18.0,142.95,4.275
+"001153 - Pall Mall East, West End",647.5,21.0,521.05,4.35
+"001042 - Woodstock Street, Mayfair",529.5,3.0,369.6,4.225
+"001055 - Wellington Road, St. John's Wood",315.0,2.0,28.4,4.15
+"001139 - Carey Street, Holborn",912.0,1.0,418.6,4.375
+"003473 - Belgrave Square, Belgravia",523.0,16.0,203.95,4.275
+"003456 - Portugal Street, Holborn",679.0,0.0,408.95,4.35
+"003481 - Rodney Road , Walworth",889.0,11.0,30.85,4.225
+"001074 - Newgate Street , St. Paul's",524.5,1.0,169.1,4.3
+"001080 - Great Tower Street, Monument",324.0,10.0,233.5,4.2
+"001167 - South Wharf Road, Paddington",428.0,3.0,93.6,4.15
+"001047 - Falkirk Street, Hoxton",498.5,24.0,166.15,4.125
+"001048 - Queen Victoria Street, St. Paul's",418.5,2.0,215.55,4.3
+"001064 - Old Street Station, St. Luke's",498.5,13.0,149.45,4.25
+"000995 - Little Argyll Street, West End",352.5,15.0,383.15,4.225
+"000993 - Drummond Street , Euston",606.0,8.0,174.15,4.25
+"001025 - Bolsover Street, Fitzrovia",606.0,1.0,172.85,4.275
+"003457 - Rochester Row, Westminster",470.0,1.0,213.25,4.375
+"001123 - Southampton Place, Holborn",489.0,0.0,405.85,4.35
+"001033 - Paddington Street, Marylebone",321.5,13.0,211.8,4.175
+"001115 - Ilchester Place, Kensington",599.0,7.0,122.95,4.225
+"003476 - Hinde Street, Marylebone",292.0,15.0,280.9,4.25
+"001046 - Vauxhall Bridge , Pimlico",769.0,9.0,119.0,4.3
+"001116 - Emperor's Gate, South Kensington",391.0,7.0,166.0,4.3
+"003445 - Shoreditch High Street, Shoreditch",238.0,36.0,187.5,4.175
+"001079 - Endsleigh Gardens, Euston",613.5,25.0,154.8,4.25
+"001036 - Crawford Street, Marylebone",346.0,2.0,171.6,4.2
+"001009 - Taviton Street, Bloomsbury",630.0,2.0,166.75,4.3
+"003468 - Margery Street, Clerkenwell",279.0,1.0,143.2,4.275
+"002585 - Orsett Terrace, Bayswater",582.0,1.0,106.1,4.1
+"001054 - East Road, Hoxton",443.5,8.0,142.7,4.225
+"000960 - Hop Exchange, The Borough",156.5,46.0,187.05,4.2
